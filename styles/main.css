@@ -1,0 +1,302 @@
+*{
+    margin:0;
+}
+body{
+    
+    background-image:url(../inagenes/unJoven.png);
+    width: 1665.47px;
+    height:2632px;
+    background-repeat: no-repeat;
+}
+.codigo{
+    
+    width: 960px;
+    border: solid #E5E5E5;
+    border-width:9.05px 348.23px 0px 357.23px;
+    height: 534.04px;
+}
+.codigo h1{
+    position:relative;
+width: 232px;
+height: 74px;
+left: 381px;
+top: 67px;
+font-family: 'Arial';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 74px;
+color: #FFFFFF;
+}
+.codigo .rectangle1{
+    position:relative;
+    width: 365px;
+    height: 117px;
+    left: 78px;
+    top: 272px;
+    background: rgba(114, 153, 254, 0.5);
+    border-radius: 10px;
+}
+.codigo >h2{
+    position:relative;
+width: 361px;
+height: 97px;
+left: 94px;
+top: 170px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 42px;
+color: #FFFFFF;     
+}
+.sobreMi{
+    background: #7299FE;
+    
+    width: 960px;
+    border: solid #E5E5E5;
+    border-width:0px 348.23px 0px 357.23px;
+    height:424px;
+}
+.sobreMi h2{
+    position:relative;
+width: 155px;
+height: 41px;
+left: 408px;
+top: 27px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 41px;
+
+color: #1D06A7;
+}
+.sobreMi .text{
+    position:relative;
+width: 872px;
+height: 166px;
+left: 41px;
+top: 55px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+/* or 171% */
+
+
+color: #F8F8F8;
+}
+.sobreMi .rectangle2{
+    position:relative;
+width: 187px;
+height: 62px;
+left: 38px;
+top: 86px;
+
+background: #D16FFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 20px;
+}
+.sobreMi .verCV{
+    position:relative;
+width: 71px;
+height: 25px;
+left: 97px;
+top:44px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 25px;
+
+color: #FFFFFF;
+}
+.misSkills{
+    position:relative;
+width: 960px;
+height: 424px;
+border: solid #E5E5E5;
+border-width:0px 348.23px 0px 357.23px;
+background: #9122FF;
+}
+.misSkills h2{
+    position: absolute;
+width: 165px;
+height: 41px;
+left: 404px;
+top: 31px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 41px;
+
+color: #26CC4B;
+}
+.misSkills .html{
+    position: absolute;
+width: 50px;
+height: 21px;
+left: 73px;
+top: 94px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+color: #FFFFFF;
+}
+.rectangleA{
+    position: absolute;
+width: 403px;
+height: 20px;
+left: 64px;
+top:141px;
+
+background: #FFFFFF;
+border-radius: 10px;
+}
+.rectangleA1{
+    position: absolute;
+width: 319px;
+height: 20px;
+background: #57EFF9;
+border-radius: 20px;
+}
+.java{
+    position: absolute;
+width: 82px;
+height: 21px;
+left: 73px;
+top: 186px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.rectangleB{
+    position: absolute;
+width: 403px;
+height: 20px;
+left: 64px;
+top: 222px;
+
+background: #FFFFFF;
+border-radius: 10px;
+}
+.rectangleB1{
+    position: absolute;
+width: 215px;
+height: 20px;
+background: #57EFF9;
+border-radius: 20px;
+}
+.flexbox{
+    position: absolute;
+    width: 82px;
+    height: 21px;
+    left: 73px;
+    top: 278px;
+    
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    /* identical to box height */
+    
+    
+    color: #FFFFFF;
+}
+.rectangleC{
+    position: absolute;
+width: 403px;
+height: 20px;
+left: 64px;
+top: 314px;
+
+background: #FFFFFF;
+border-radius: 10px;
+}
+.rectangleC1{
+    position: absolute;
+width:363px;
+height: 20px;
+background: #57EFF9;
+border-radius: 20px;
+}
+.portafolio{
+    position:relative;
+width: 960px;
+height: 424px;
+border: solid #E5E5E5;
+border-width:0px 348.23px 0px 357.23px;
+background:#FFD233;
+}
+.portafolio h2{
+    position: absolute;
+width: 169px;
+height: 41px;
+left: 399px;
+top: 42px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 41px;
+
+color: #00AD84;
+}
+.imagen2{
+    position:absolute;
+    width:650px;
+height: 225px;
+left: 513.23px;
+top: 1503px;
+}
+.clientes{
+    position:relative;
+width: 960px;
+height: 258px;
+border: solid #E5E5E5;
+border-width:0px 348.23px 0px 357.23px;
+
+background: #3F4E62;
+}
+.clientes h2{
+    position: absolute;
+width: 141px;
+height: 41px;
+left: 413px;
+top: 23px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 41px;
+
+color: #ADFF28;
+}
+.imagen3{
+    position:absolute;
+    width:840px;
+height:70px;
+left:418.23px;
+top: 1889px;
+}
